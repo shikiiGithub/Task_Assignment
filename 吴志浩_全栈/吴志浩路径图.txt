@@ -2,11 +2,11 @@
 1.基本学完Ado.net 
 2.将常用的数据库都使用一下
 3.学习Lambda / Linq  /Action / Func /线程/泛型 等高级C# 语法
-4.Entity Framework/OrmPlatform/Mybatis.Net/NHibernate
-5.DBMS(数据库管理工具)的使用（navicat）
-6.TortoiesGit 软件
-7.Github/Gitee的使用
-
+4.DBMS(数据库管理工具)的使用（navicat）
+5.TortoiesGit 软件
+6.Github/Gitee的使用
+7.Entity Framework/OrmPlatform/Mybatis.Net/NHibernate
+8.java (选学)
 二：Web 
 1.HTML/CSS  ！！！重点学习！！！
 https://www.bilibili.com/video/av57100756?p=2
