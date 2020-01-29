@@ -1,18 +1,22 @@
 一：Web 核心的准备
+必学：
 1.基本学完Ado.net 
 2.将常用的数据库都使用一下
 3.学习Lambda / Linq  /Action / Func /线程/泛型 等高级C# 语法
 4.DBMS(数据库管理工具)的使用（navicat）
 5.TortoiesGit 软件
 6.Github/Gitee的使用
-7.Entity Framework/OrmPlatform/Mybatis.Net
+7.Entity Framework/OrmDBPlatform
 8.Spring.Net
 9. 日志系统log4j
-10.java (选学)
-11.RabbitMQ(选学)
+10.Nosql 数据库的学习
+     mongoDB,Radis
+选学：
+1.java (选学)
+2.RabbitMQ(选学)
 https://www.rabbitmq.com/dotnet.html
 https://www.cnblogs.com/knowledgesea/p/5296008.html
-12.ML.NET 的学习（选学）
+3.ML.NET 的学习（选学）
 二：Web 
  请在根目录下查看“前端学习路线.txt”
  Web API 2

@@ -12,7 +12,10 @@ https://www.bilibili.com/video/av35544811?p=3
 5.Nodejs访问数据库只学两种：sqlite/postgresql
    统一使用数据管理工具：navicat
    学习简单的sql 语句(用到时可以问我)
+   使用Orm 框架：sequelize https://github.com/sequelize/sequelize
+      
 6.Nodejs 使用log4j日志
+
  
 7.Vue
 https://www.bilibili.com/video/av55960235?p=1
