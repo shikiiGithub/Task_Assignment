@@ -12,7 +12,7 @@
 11.RabbitMQ(选学)
 https://www.rabbitmq.com/dotnet.html
 https://www.cnblogs.com/knowledgesea/p/5296008.html
-
+12.ML.NET 的学习（选学）
 二：Web 
  请在根目录下查看“前端学习路线.txt”
  Web API 2
