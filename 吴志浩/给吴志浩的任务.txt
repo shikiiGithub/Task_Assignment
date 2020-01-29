@@ -1,0 +1,7 @@
+1.对各数据库进行性能测试
+2.Vue 在VSCode 中的学习（VueCli的使用）
+3.研究vue-chartjs 脱离nodejs中的使用
+4. 了解 Ant Design
+5.了解蚂蚁金服/百度 的开源图表
+6. vue-element-admin
+ https://panjiachen.github.io/vue-element-admin-site/zh/

@@ -1,0 +1,20 @@
+一：Web 核心的准备
+1.基本学完Ado.net 
+2.将常用的数据库都使用一下
+3.学习Lambda / Linq  /Action / Func /线程/泛型 等高级C# 语法
+4.Entity Framework/OrmPlatform/Mybatis.Net/NHibernate
+5.DBMS(数据库管理工具)的使用（navicat）
+6.TortoiesGit 软件
+7.Github/Gitee的使用
+
+二：Web 
+1.Html/CSS
+2.Javascript/JQuery
+3.Ajax/Axios (我讲)
+4.Vue （同时要学习Nodejs）
+5.Elements / Vant
+6. Web API 2
+7. ASP.NET MVC
+8. ASP.NET CORE
+
+三：embedio
