@@ -6,7 +6,13 @@
 5.TortoiesGit 软件
 6.Github/Gitee的使用
 7.Entity Framework/OrmPlatform/Mybatis.Net/NHibernate
-8.java (选学)
+8.Spring.Net
+9. 日志系统log4j
+10.java (选学)
+11.RabbitMQ(选学)
+https://www.rabbitmq.com/dotnet.html
+https://www.cnblogs.com/knowledgesea/p/5296008.html
+
 二：Web 
 1.HTML/CSS  ！！！重点学习！！！
 https://www.bilibili.com/video/av57100756?p=2
@@ -22,11 +28,12 @@ https://www.bilibili.com/video/av35544811?p=3
 5.Nodejs访问数据库只学两种：sqlite/postgresql
    统一使用数据管理工具：navicat
    学习简单的sql 语句(用到时可以问我)
-    
-6.Vue
+6.Nodejs 使用log4j日志
+ 
+7.Vue
 https://www.bilibili.com/video/av55960235?p=1
 
-7.学习element/vant/Ant Design （之所以要学这么多界面框架是因为可能以后需要进行界面库选型，委屈你了）
+8.学习element/vant/Ant Design （之所以要学这么多界面框架是因为可能以后需要进行界面库选型，委屈你了）
 vant 移动版本 :
 https://youzan.github.io/vant/#/zh-CN/
 element 桌面:
@@ -36,13 +43,13 @@ https://www.antdv.com/docs/vue/introduce-cn/
 ant-design 移动版本：
 https://antdmobilevue.aegis-info.com/install
 
-8.学习chartjs/百度的echarts 图表/ 蚂蚁金服开源图表 AntV（之所以要学这么多图表框架是因为可能以后需要进行界面库选型，委屈你了）
+9.学习chartjs/百度的echarts 图表/ 蚂蚁金服开源图表 AntV（之所以要学这么多图表框架是因为可能以后需要进行界面库选型，委屈你了）
 chartjs:
 https://www.chartjs.org/
-9.vue-element-admin
+10.vue-element-admin
 https://panjiachen.gitee.io/vue-element-admin-site/zh/guide/advanced/chart.html#demo
-10. Web API 2
-11. ASP.NET MVC
-12. ASP.NET CORE
+11. Web API 2
+12. ASP.NET MVC
+13. ASP.NET CORE
 
 三：embedio
