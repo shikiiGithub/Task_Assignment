@@ -1,0 +1,6 @@
+对于js:
+  尽量使用lambda 方式：
+   比如： const getcallback = (response) => {
+        // console.log(response);
+        app.result = response.data;
+    }
