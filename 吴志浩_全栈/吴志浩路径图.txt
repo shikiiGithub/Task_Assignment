@@ -10,7 +10,7 @@
 8.Spring.Net
 9. 日志系统log4j
 10.Nosql 数据库的学习
-     mongoDB,Radis
+     mongoDB
 选学：
 1.java (选学)
 2.RabbitMQ(选学)
