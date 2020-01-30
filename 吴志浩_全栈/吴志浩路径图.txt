@@ -17,6 +17,12 @@
 https://www.rabbitmq.com/dotnet.html
 https://www.cnblogs.com/knowledgesea/p/5296008.html
 3.ML.NET 的学习（选学）
+4.Lucene.NET的学习
+https://masuit.com/1437
+5.AutoMapper 
+https://masuit.com/1625
+6.Autofac在.NET Core中的属性注入
+https://masuit.com/1435
 二：Web 
  请在根目录下查看“前端学习路线.txt”
  Web API 2
