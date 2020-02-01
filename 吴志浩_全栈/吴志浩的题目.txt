@@ -1,0 +1,6 @@
+1.委托要在哪里定义，怎么定义，试着写一个例子(void FuckGoogle(bool AreYouSure))
+2.Action 是什么,为什么要使用Action，试着写一个例子(void FuckGoogle(bool AreYouSure))
+3.Func 是什么，为什么要使用Func,试着写一个例子（int FuckGoogle(int how）)
+4.泛型是什么，为什么要用泛型，试着写一个冒泡排序的方法，要求用泛型（方法名为SortSequence，参数为一个泛型参数，这个参数是一个数组）
+5.Lambda 是什么，为什么要用Lambda，试着写一个（已经定义了一个委托 FuckGoogle FuckGoogleDel,现在需要为其赋值，要求用lambda ）
+6.线程是什么，为什么要多线程，线程要怎么使用（试着写一个线程，主线程用于输出1-100，新创建的线程用于输出500-900）

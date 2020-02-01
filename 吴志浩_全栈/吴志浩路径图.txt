@@ -10,6 +10,7 @@ https://masuit.com/1625
 7. 日志系统log4j
 8.Nosql 数据库的学习
      mongoDB
+ (https://www.bilibili.com/video/av62769988?from=search&seid=10845062193911997092)
 
 选学：
 1.RabbitMQ(选学)
