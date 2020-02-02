@@ -13,12 +13,16 @@ https://masuit.com/1625
      mongoDB
  (https://www.bilibili.com/video/av62769988?from=search&seid=10845062193911997092)
 
-10.Lucene.NET的学习
+10 Embedio学习（我来讲）
+
+11.Lucene.NET的学习
 https://masuit.com/1437
 
-11.RabbitMQ(选学)
+
+12.RabbitMQ(选学)
 https://www.rabbitmq.com/dotnet.html
 https://www.cnblogs.com/knowledgesea/p/5296008.html
+
 
 二：Web 
  请在根目录下查看“前端学习路线.txt”
@@ -29,4 +33,4 @@ https://www.cnblogs.com/knowledgesea/p/5296008.html
  ASP.NET CORE
 6.Autofac在.NET Core中的属性注入
 https://masuit.com/1435
-三：embedio
+
