@@ -5,5 +5,8 @@
 5.Lambda 是什么，为什么要用Lambda，试着写一个（已经定义了一个委托 FuckGoogle FuckGoogleDel,现在需要为其赋值，要求用lambda ）
 6.线程是什么，为什么要多线程，线程要怎么使用（试着写一个线程，主线程用于输出1-100，新创建的线程用于输出500-900）
 7.将C#习题100例.pdf的题目做完（耗时4天）
+
 8.做C# 高级练习
 https://blog.csdn.net/a_lllll/article/details/87478186
+
+9.sql server,mysql,postgresql,firebird,mongodb,sqlce,sqlite
