@@ -5,32 +5,31 @@
 3.学习Lambda / Linq  /Action / Func /线程/泛型 等高级C# 语法
 4.DBMS(数据库管理工具)的使用（navicat）
 5.DBPlatform
-6.AutoMapper
-https://masuit.com/1625
-7.Entity Framework/OrmDBPlatform
-8. 日志系统log4j
-9.Nosql 数据库的学习
+6.Entity Framework/OrmDBPlatform
+
+8.Nosql 数据库的学习
      mongoDB
  (https://www.bilibili.com/video/av62769988?from=search&seid=10845062193911997092)
 
-10 Embedio学习（我来讲）
+9 Embedio学习（我来讲）
 
-11.Lucene.NET的学习
+10.Lucene.NET的学习
 https://masuit.com/1437
 
-
-12.RabbitMQ(选学)
+11.RabbitMQ(选学)
 https://www.rabbitmq.com/dotnet.html
 https://www.cnblogs.com/knowledgesea/p/5296008.html
 
+12.AutoMapper(选学)
+https://masuit.com/1625
+
+13. 日志系统log4j(选学)
 
 二：Web 
  请在根目录下查看“前端学习路线.txt”
- Autofac
- https://autofaccn.readthedocs.io/zh/latest/getting-started/index.html
  Web API 2
  ASP.NET MVC
  ASP.NET CORE
-6.Autofac在.NET Core中的属性注入
+ ASP.NET Core中的依赖注入
 https://masuit.com/1435
 
