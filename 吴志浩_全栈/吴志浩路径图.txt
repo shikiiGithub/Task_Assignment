@@ -16,8 +16,6 @@
      mongoDB
  (https://www.bilibili.com/video/av62769988?from=search&seid=10845062193911997092)
 
-9 Embedio学习（我来讲）
-
 10.Lucene.NET的学习
 https://masuit.com/1437
 

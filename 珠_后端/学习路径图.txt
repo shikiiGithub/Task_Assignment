@@ -1,0 +1,12 @@
+1.学习C#语法（跟着这个视频学）
+https://www.bilibili.com/video/av59882336?from=search&seid=6461283296011345795
+
+2.sql 与ado.net
+https://www.bilibili.com/video/av79848460?p=1
+
+3.DBMS(数据库管理工具)的使用（navicat）
+
+4.学习Lambda / Linq  /Action / Func /线程/泛型 等高级C# 语法
+
+5.OrmDBPlatform的学习（我来讲，因为这个是我写的框架）
+   
