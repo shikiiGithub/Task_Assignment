@@ -1,10 +1,15 @@
 一：Web 核心的准备
 必学：
 1.基本学完Ado.net 
+
 2.将常用的数据库都使用一下
+
 3.学习Lambda / Linq  /Action / Func /线程/泛型 等高级C# 语法
+
 4.DBMS(数据库管理工具)的使用（navicat）
+
 5.DBPlatform
+
 6.Entity Framework/OrmDBPlatform
 
 8.Nosql 数据库的学习
