@@ -1,9 +1,14 @@
 1.对各数据库进行性能测试
-2.对OrmDBPlatform进行拓展（主要是sql server,mysql,postgresql,firebird,其它不用管）
+2.版本控件工具Git 的项目实践
+   1.编写压缩js/css的winform窗口应用
+   2.在Lightinroom_Sln主分支上创建web分支和Mobile 分支
+   3.手动完善Web分支和Mobile分支
+   4.提交项目模板
+3.对OrmDBPlatform进行拓展（主要是sql server,mysql,postgresql,firebird,其它不用管）
    0）完成各数据库与C#的数据类型对应关系
    1）增加数据到各数据库的迁移
    2）增加从数据库中将未登记的表导出为Entity并添加到项目目录中，（可全部，可选择性导出）
-3.尝试写一个跨平台项目（使用Embedio）“单词听写”
+4.尝试写一个跨平台项目（使用Embedio）“单词听写”
    1）winform 端
    2）android  端
    3）ios 端
