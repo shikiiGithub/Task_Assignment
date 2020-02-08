@@ -1,4 +1,8 @@
-1.对各数据库进行性能测试
+1.使用OrmDBPlatform对各数据库进行测试（找出潜藏的问题）
+   对Mysql 数据库 
+   对SQL Server/LocalDB
+   对Postgresql 数据库进行重点测试
+  
 2.版本控件工具Git 的项目实践
    1.编写压缩js/css的winform窗口应用
    2.在Lightinroom_Sln主分支上创建web分支和Mobile 分支
