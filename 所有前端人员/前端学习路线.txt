@@ -9,19 +9,18 @@ https://www.bilibili.com/video/av35544811?p=3
 4.Vue
 https://www.bilibili.com/video/av55960235?p=1
 
-5.学习element/vant/Ant Design （之所以要学这么多界面框架是因为可能以后需要进行界面库选型，委屈你了）
+5.学习bootstrap-vue/vant/Ant Design
+bootstrap-vue：
+https://bootstrap-vue.js.org/docs
+
 vant 移动版本 :
 https://youzan.github.io/vant/#/zh-CN/
-element 桌面:
-https://element.eleme.cn/#/zh-CN
-ant-design 桌面版本：
-https://www.antdv.com/docs/vue/introduce-cn/
 ant-design 移动版本：
 https://antdmobilevue.aegis-info.com/install
 
-6.学习chartjs/百度的echarts 图表/ 蚂蚁金服开源图表 AntV（之所以要学这么多图表框架是因为可能以后需要进行界面库选型，委屈你了）
+6.学习chartjs/百度的echarts 图表/ 蚂蚁金服开源图表 AntV
 chartjs:
 https://www.chartjs.org/
-7.vue-element-admin
-https://panjiachen.gitee.io/vue-element-admin-site/zh/guide/advanced/chart.html#demo
 
+7.coreui Admin Template
+https://coreui.io/
