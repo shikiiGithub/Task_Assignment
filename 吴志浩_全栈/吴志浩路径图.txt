@@ -10,7 +10,7 @@
 
 5.DBPlatform
 
-6.Entity Framework/OrmDBPlatform
+6.Entity Framework/OrmDBPlatform/NHibernate
 
 8.Nosql 数据库的学习
      mongoDB
